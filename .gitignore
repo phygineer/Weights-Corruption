@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+results/
+data/
+*.gguf
+*.bin
+*.safetensors
+.DS_Store
